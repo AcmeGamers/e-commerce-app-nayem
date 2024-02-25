@@ -1,2 +1,2 @@
 # e-commerce-app
-Ecommerce app
+This is an Ecommerce Application made by @NayemEbrahim
